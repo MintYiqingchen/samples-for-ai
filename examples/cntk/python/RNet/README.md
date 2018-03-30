@@ -1,4 +1,3 @@
-# Instructions for getting started with bidaf 
 
 ## Download the MS MARCO  dataset
 ```
